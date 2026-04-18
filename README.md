@@ -23,7 +23,7 @@ Or install directly from this repo:
 
 ## Supported domains
 
-`redecanais.ooo` `redecanais.cafe` `redecanais.gs` `redecanais.ms` `redecanais.ps` `redecanais.zip` `redecanais.africa` `redecanais.mov` `redecanais.la` `redecanais.dev` `redecanais.ac` `redecanais.dad` `redecanais.in`
+`redecanais.ooo` `redecanais.cafe` `redecanais.gs` `redecanais.ms` `redecanais.ps` `redecanais.zip` `redecanais.africa` `redecanais.mov` `redecanais.la` `redecanais.dev` `redecanais.ac` `redecanais.dad` `redecanais.in` `redecanais.be` `redecanais.ph`
 
 If the site moves to a new domain, you can add a new `@match` in your userscript manager settings.
 
