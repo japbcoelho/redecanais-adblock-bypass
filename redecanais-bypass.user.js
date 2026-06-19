@@ -3,7 +3,7 @@
 // @name:pt-BR   RedeCanais Ad Bypass
 // @name:en      RedeCanais Ad Bypass
 // @namespace    https://github.com/japbcoelho
-// @version      1.1
+// @version      1.2
 // @description  Remove o ad-gate (popup que obriga clicar em anúncios para assistir), bloqueia popunders, remove overlays de propaganda e desativa o bloqueio de DevTools no RedeCanais.
 // @description:en  Removes the ad-gate (popup forcing ad clicks to watch videos), blocks popunders, removes ad overlays and disables DevTools blocking on RedeCanais.
 // @author       Kanin
@@ -23,6 +23,7 @@
 // @match        *://redecanais.in/*
 // @match        *://redecanais.be/*
 // @match        *://redecanais.ph/*
+// @match        *://redecanais.pet/*
 // @grant        none
 // @run-at       document-start
 // @noframes     false
